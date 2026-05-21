@@ -37,3 +37,15 @@ p {
   font-size: 18px;
   line-height: 1.6;
 }
+
+.status {
+  display: inline-flex;
+  margin-top: 20px;
+  padding: 10px 14px;
+  border: 1px solid #b7d7c8;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #1b4f3c;
+  font-size: 14px;
+  font-weight: 700;
+}

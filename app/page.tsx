@@ -8,6 +8,7 @@ export default function Home() {
           This small Next.js app exists to verify Hostlet can clone a GitHub repo,
           generate a Docker build, run health checks, and serve the app locally.
         </p>
+        <p className="status">Auto-deploy smoke test: May 21, 2026</p>
       </section>
     </main>
   );
